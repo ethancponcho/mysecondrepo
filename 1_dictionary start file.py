@@ -101,7 +101,7 @@ print()
 for key in phonebook:
     print(f"Name: {key} Phone Number: {phonebook[key]}")
     
-for values in phonebook.values()
+for values in phonebook.values():
     print(values)
 
 
