@@ -1,4 +1,4 @@
 rwfiles_venv/
 *phil*
 read*
-*.gitignore*
+.gitignore
